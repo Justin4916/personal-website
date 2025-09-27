@@ -20,7 +20,7 @@ export default function Home() {
           </div>
           <div className="flex justify-center items-center space-x-8 text-xl text-blue-100">
             <span className="bg-navy-800 px-6 py-2 rounded-full">17 (Senior)</span>
-            <span className="bg-navy-800 px-6 py-2 rounded-full">New Jersey</span>
+            <span className="bg-navy-800 px-6 py-2 rounded-full">Edison,New Jersey</span>
           </div>
         </div>
 
